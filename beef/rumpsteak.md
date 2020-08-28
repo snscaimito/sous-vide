@@ -21,7 +21,7 @@
 * add rumpsteak bag
 * add potato bag
 
-### After 1:30 minutes
+### After 1:30 hrs
 
 * add green beans bag
 
