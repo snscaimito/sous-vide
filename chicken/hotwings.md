@@ -1,12 +1,13 @@
-Hot Chicken wings
+# Hot Chicken wings
 
-Required
+## Required
   - Sous vide
   - cooking torch
   - Oven
   
-  Ingredients
-  Chicken
+## Ingredients
+
+### Chicken
     - Chicken wings 1Kg
     - Fresh Orange Juice
     - Fresh Lime juice
@@ -14,7 +15,8 @@ Required
     - white paper to taste
     - salt to taste
     - fresh Thyme
-   Sauce
+    
+### Sauce
     - Tomate base sauce
     - Siracha 2 tsp (add more if you like it hot)
     - Perrins sauce 1/2 tsp
@@ -23,8 +25,9 @@ Required
     - Salt to taste
     - red chilli flakes to taste
     
-    Steps
-      Chicken
+## Steps
+
+### Chicken
         - First clean chicken wings of any remaining feathers (use torch if you like)
         - salt and paper chicken
         - Use rest if the ingredients
